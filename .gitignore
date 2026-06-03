@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+matplotlib_cache/
+cost_over_iterations.png
+sample_digit_predictions.png
